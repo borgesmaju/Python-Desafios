@@ -1,5 +1,5 @@
 # Python - Desafios
- Exercícios do curso de Python.
+ Exercícios solucionados por mim para o curso de Python.
 
 ### **Guia de exercícios por título:**
 
